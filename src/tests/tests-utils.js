@@ -1,4 +1,4 @@
-import esPalindromo from "../utils.js "
+import fibonacci from "../utils.js "
 
-const HOLI = esPalindromo("Chao")
+const HOLI = fibonacci(5)
 console.log(HOLI)
